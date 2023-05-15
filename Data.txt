@@ -1,0 +1,18 @@
+Calculator C++ Function Of Calculator
+100 Benas 2020/04/28 20:50
+Translator HTML Added More Languages
+110 Pijus 2020/04/28 22:51
+Shooter JAVA Fixed Spawning Bug
+121 Pijus 2020/04/28 23:10
+CarLister HTML Added New Models
+100 Lukas 2020/04/28 23:56
+Wiki HTML Added More Users To The System
+535 Lukas 2020/04/29 00:11
+Kasimas JavaScript Added New Crypto Currency Into The System
+151 Jolita 2020/04/29 00:24
+Kasimas JavaScript Removed Older Not Used Crypto Currencies
+152 Liza 2020/04/29 00:25
+HouseMaking REACT Added more houses into the system
+162 Bartas 2020/04/29 12:31
+Sims4 JAVA Created new family creating system
+162 Lukrecija 2020/04/30 17:09
